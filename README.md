@@ -1,5 +1,5 @@
 # Hola-Mundo
-Mi primer repositorio de prueba.
+Mi repositorio de Prueba.
 
 Autor: Veronica QD.
 Fecha: 26 Agosto 2021.
